@@ -1,0 +1,10 @@
+{
+  "name": "oshop-node-server",
+  "version": "0.0.0",
+  "description": "NodeJS+MongoDB Backend Server",
+  "main": "server.js",
+  "author": "Pedro Parreira",
+  "dependencies": {
+    "express": "~4.7.2"
+  }
+}
